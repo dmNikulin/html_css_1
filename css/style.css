@@ -1,0 +1,17 @@
+body {
+    width: 1140px;
+    justify-content: center;
+}
+
+.center {
+    padding-left: calc(50% - 580px);
+    padding-right: calc(50% - 580px);
+}
+
+.goods {}
+
+.card__good {
+    width: 300px;
+    display: inline-block;
+    padding: 10px;
+}
